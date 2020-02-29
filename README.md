@@ -11,4 +11,5 @@ This is a movie-booking console application. There are 2 possible users: custome
 ## Team members
 - Sebastian
 - Christofer Himawan
+- Terence Andre
 - Padhi Abhinadan
